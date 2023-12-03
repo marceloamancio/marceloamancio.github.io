@@ -1,0 +1,23 @@
+baseURL: ""
+languageCode: en-us
+title: Marcelo's blog 
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: portfolio 
+      name: Portfolio
+      url: /portfolio/
+      weight: 10
+ #   - identifier: categories
+ #     name: Categories
+ #     url: /categories/
+ #     weight: 20
+ #   - identifier: tags
+ #     name: Tags
+ #     url: /tags/
+ #     weight: 30
+ #   - identifier: archives 
+ #     name: Archives
+ #     url: /archives/
+ #     weight: 40
