@@ -53,7 +53,7 @@
 * AI Methods in Computational Finance.
 * LLMs in Finance.
 
-**PhD - All but thesis** *at The Sheffield University/UK & [DCS](https://www.sheffield.ac.uk/dcs)* | 2012 – 2016
+**PhD - All but thesis** *at The University of Sheffield/UK & [DCS](https://www.sheffield.ac.uk/dcs)* | 2012 – 2016
 
 * Automatic Text Simplification.
 * Crowdsourced text simplifications.
