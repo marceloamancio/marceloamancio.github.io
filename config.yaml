@@ -12,7 +12,7 @@ menu:
   #    weight: 5
     - identifier: cv 
       name: CV 
-      url: /cv/
+      url: /cv
       weight: 10
  #   - identifier: about 
  #     name: About

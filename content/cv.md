@@ -4,13 +4,13 @@
 **AI Researcher | Machine Learning Engineer | NLP | LLM & AI**
 -->
 
-**E-mail:** marceloamancio (at) usp (dot) br
+* **E-mail:** marceloamancio (at) usp (dot) br
 
-**Website**: [marceloamancio.github.io](https://marceloamancio.github.io)
+* **Website**: [marceloamancio.github.io](https://marceloamancio.github.io)
 
-**LinkedIn:** [linkedin.com/in/marcelo-amancio](https://www.linkedin.com/in/marcelo-amancio/)
+* **LinkedIn:** [linkedin.com/in/marcelo-amancio](https://www.linkedin.com/in/marcelo-amancio/)
 
-**Publications:** [Google Scholar](https://scholar.google.co.uk/citations?user=VfXjurEAAAAJ)
+* **Publications:** [Google Scholar](https://scholar.google.co.uk/citations?user=VfXjurEAAAAJ)
 
 <!-- Add later
 **Additionally, you can consider including:**
