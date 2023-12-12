@@ -4,7 +4,7 @@
 **AI Researcher | Machine Learning Engineer | NLP | LLM & AI**
 -->
 
-* **E-mail:** marceloamancio (at) usp (dot) br
+* **E-mail:** marcelousp (at) gmail (dot) com
 
 * **Website**: [marceloamancio.github.io](https://marceloamancio.github.io)
 
@@ -23,24 +23,24 @@
 
 ## Work Experience
 
-**Machine Learning Specialist at [Datamilk.ai](https://www.datamilk.ai) | [Aug 2021 – Dec 2022]**
+**Machine Learning Specialist** *at [Datamilk.ai](https://www.datamilk.ai)* | Aug 2021 – Dec 2022
 
 * *Created a model able to rank UI/UX elements.*
 * *Developed a transformer-based LLM able to learn navigation context at scale.*
-* *Deployed model to production.*
+* *Deployed ML models into production.*
 * *Pioneered the development of Large Language Model (LLM) for e-commerce.*
 
-**Head of Data Science at [Talentify.io](https://www.talentify.io) | [Apr 2020 – Mar 2021]**
+**Head of Data Science** *at [Talentify.io](https://www.talentify.io)* | Apr 2020 – Mar 2021
 
-* *Responsible for the NLP pipeline on question generation for our recruitment platform.*
+* *Responsible for the NLP pipeline on our recruitment platform.*
 * *Led a team of 4 engineers and 2 linguists.*
 
-**Lecturer at [Edevo Business School](https://edevo.com.br) | [Dec 2019 - Mar 2020]**
+**Lecturer** *at [Edevo Business School](https://edevo.com.br)* | Dec 2019 - Mar 2020
 
 * Speaker on the topic of AI for business.
-* Cities attended: Porto Alegre, Rio de Janeiro and Sao Paulo
+* Cities attended: Porto Alegre, Rio de Janeiro and Sao Paulo.
 
-**AI Developer and Consultant at Inoama Research | [Oct 2017 - Nov 2019]**
+**AI Developer and Consultant** *at Inoama Research* | Oct 2017 - Nov 2019
 
 * Independent AI Developer and Consultant.
 * Helped startups developing their first AI models and serving it to production.
@@ -48,46 +48,46 @@
 
 ## Education
 
-**PhD - Partial Studies** | **University of São Paulo** | **Jan 2023 – Nov 2023**
+**PhD - Partial Studies** *at University of São Paulo* | Jan 2023 – Nov 2023
 
-* *AI Methods in Computational Finance.*
-* *LLMs in Finance.*
+* AI Methods in Computational Finance.
+* LLMs in Finance.
 
-**PhD studies - All but thesis** | **The Sheffield University/UK & [DCS](https://www.sheffield.ac.uk/dcs)** | **2012 – 2016**
+**PhD - All but thesis** *at The Sheffield University/UK & [DCS](https://www.sheffield.ac.uk/dcs)* | 2012 – 2016
 
-* *Automatic Text Simplification.*
-* *Crowdsourced text simplifications.*
+* Automatic Text Simplification.
+* Crowdsourced text simplifications.
 
-**M.Sc. in Natural Language Processing** | **University of Sao Paulo/BR & [NILC](https://sites.google.com/view/nilc-usp/)** | **2009 – 2011**
+**MSc in Natural Language Processing** at *University of Sao Paulo/BR & [NILC](https://sites.google.com/view/nilc-usp/)* | *2009 – 2011*
 
 * *Automatic Question Generation using Machine Learning methods*.
 * *Automatic Question Categorization.*
 
-**Bsc in Computer Science**  | **University of Sao Paulo/BR** | **2004-2009**
+**Bsc in Computer Science** *at University of Sao Paulo/BR* | *2004 - 2009*
 * Developed a Named Entity System for Portuguese.
 * NLP research to assist Business Plan writing.
 
 ## Academic Experience & Competitions
 
-**Teaching Assistant** at *The Sheffield University* (2014-2015)**
+**Teaching Assistant** *at [The Sheffield University/UK](https://www.sheffield.ac.uk)* | 2014 - 2015
 * Introduction to Programming using Python.
 * Software Engineering & Projects.
 
-**Programming Competitions** ([ICPC](https://icpc.global))
+**Programming Competitions** *organized by [ICPC](https://icpc.global) and [IOI](https://ioinformatics.org)*
 * 2004 - International Olympiad in Informatics (IOI).
 * 2008 - ACM Int. Collegiate Programming Contest.
 
 ## Awards & Honors
-**Santander Bank Scholarship** at University of Porto FEUP - Porto/Portugal (2007/2008)
+**Santander Bank Scholarship** *at University of Porto FEUP - Porto/Portugal* | 2007 - 2008
 * Honored with an international scholarship for outstanding academic performance.
 
 ## Volunteer Experience
 
-**Luar: Associação Lugar de Amor e Restauração** | **English Teacher** | **Sep 2019 - Feb 2020**
+**English Teacher Volunteer** *at [Luar: Associação Lugar de Amor e Restauração](https://luar.org.br)* | Sep 2019 - Feb 2020
 
 * Teaching English for teenagers that had no previous knowledge on the language.
-* Helped them build their initial vocabulary spoken and written.
-* Inspired them to love the English language using music.
+* Helped them build their initial spoken and written vocabulary.
+* Inspired them to love the English language with music.
 
 ## Research Papers
 
