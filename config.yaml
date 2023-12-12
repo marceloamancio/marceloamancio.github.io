@@ -5,10 +5,24 @@ theme: PaperMod
 
 menu:
   main:
-    - identifier: portfolio 
-      name: Portfolio
-      url: /portfolio/
+
+  #  - identifier: index 
+  #    name: About 
+  #    url: /
+  #    weight: 5
+    - identifier: cv 
+      name: CV 
+      url: /cv/
       weight: 10
+ #   - identifier: about 
+ #     name: About
+ #     url: /about
+ #     weight: 3
+ #   - identifier: cv 
+ #     name: CV
+ #     url: /cv
+ #     weight: 10
+  
  #   - identifier: categories
  #     name: Categories
  #     url: /categories/
