@@ -26,9 +26,9 @@
 **Machine Learning Specialist** *at [Datamilk.ai](https://www.datamilk.ai)* | Aug 2021 – Dec 2022
 
 * *Created a model able to rank UI/UX elements.*
-* *Developed a transformer-based LLM able to learn navigation context at scale.*
+* *Developed a transformer-based Language Model able to learn navigation context at scale.*
 * *Deployed ML models into production.*
-* *Pioneered the development of Large Language Model (LLM) for e-commerce.*
+* *Pioneered the development of Language Models (LMs) for e-commerce.*
 
 **Head of Data Science** *at [Talentify.io](https://www.talentify.io)* | Apr 2020 – Mar 2021
 
